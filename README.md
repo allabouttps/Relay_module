@@ -1,8 +1,7 @@
 Relay Module
 
 Description:
-This project is a relay-based electronic switch circuit PCB designed using Proteus 8 Professional.  
-The relay acts as an electromechanical switch to control high-voltage AC loads using a low-voltage DC trigger from a microcontroller or sensor module.
+This project is a relay Module PCB designed using Proteus 8 Professional.
 
 Components Used:
 - 5V Relay
