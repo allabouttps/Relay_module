@@ -24,7 +24,7 @@ PCB Layout / Circuit Preview:
 
 Features:
 - Efficient switching.
-- Can be used with Arduino, sensors, 8051, etc.
+- Can be used with Arduino, sensors, Appliances etc.
 - Fully designed as a PCB layout.
 
 Note: This PCB is designed on Proteus 8 Professional. So, Source files are not uploaded . If you want, feel free to ask me.
