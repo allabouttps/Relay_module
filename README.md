@@ -23,6 +23,8 @@ PCB Layout / Circuit Preview:
 
 
 Features:
-- Efficient switching of AC/DC loads.
+- Efficient switching.
 - Can be used with Arduino, sensors, 8051, etc.
 - Fully designed as a PCB layout.
+
+Note: This PCB is designed on Proteus 8 Professional. So, Source files are not uploaded . If you want, feel free to ask me.
