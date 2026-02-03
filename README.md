@@ -9,10 +9,6 @@ Components Used:
 - Diodes
 - Resistor
 - LED
-- Power Source
-
-Working:
-When a low-voltage signal is applied to the base of the transistor, it turns ON and energizes the relay coil. This closes the switch contacts and allows current to flow to the external load. The LED glows to indicate relay activation.
 
 PCB Layout / Circuit Preview:
 
